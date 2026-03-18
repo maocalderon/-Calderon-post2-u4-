@@ -65,9 +65,6 @@ Los tests de `StrategyTest` y `ObserverTest` validan:
 - Manejo de estrategias invalidas
 - Publicacion y reaccion a eventos Observer
 
-## Requisitos
-- Java 17+
-- Maven 3.8+
-- Spring Boot
+
 
 
